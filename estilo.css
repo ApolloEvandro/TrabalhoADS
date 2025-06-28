@@ -10,11 +10,11 @@ img{width: 300px; border-radius: 10px;}
 
 
 
-.imagem1{max-width: 100%;    width: 402px; height: 210px;object-fit: scale-down;}
+.imagem1{background-image: url(frança.webp); background-size: cover;}
 
-.imagem2{ max-width: 100%;  width: 402px; height: 210px;object-fit: cover;}
+.imagem2{background-image: url(frança.webp); background-size: cover;}
 
-.imagem3{max-width: 100%;   width: 402px; height: 210px; object-fit: cover;}
+.imagem3{background-image: url(frança.webp); background-size: cover;}
 
 a:hover{color: red;}
 a{color: black;}
